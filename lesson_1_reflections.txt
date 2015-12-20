@@ -1,0 +1,69 @@
+By seeing the difference between two versions
+I could what changed and how it changed as well
+as how fast I could inspect and pin point the 
+error in the code.
+
+
+How could having easy access to the entire history
+of a file make you a more efficient programmer in
+the long term?
+
+Having access to the whole history of a file you can
+look back at previous versions and see what you did 
+before and compare them to what you have to help you
+see the progression between your code and it may help
+you see why you did them and correct them early on and
+have better practices. It also will help in fixing and
+version problems. If you start revising code in your 
+program and by the time you build and run it everything
+just doesn't work anymore. With having the history of
+the file you can go back and compare what you did and
+look for what made it buggy and fix them.
+
+What do you think are the pros and cons of manually
+choosing when to create a commit, like you do in Git,
+vs having versions automatically saved, like Google
+Docs does?
+
+The pros are you can choose and if you choose logically
+and with meaning then those commits are very efficient
+and helpful versions. Knowing when to commit is the hard
+part to decide when you are not experienced.
+
+The cons of manually choosing when to commit is that you
+might not be committing enough or forget to commit and
+when you do the commit is too big.
+
+Why do you think some version control systems, like Git,
+allow saving multiple files in one commit, while others,
+like Google Docs, treat each file separately?
+
+Git is geared toward developers and developers can change
+multiple files at once since the files are related to one
+another, however, Google Docs is not meant to have files
+related to another and each file stands alone.
+
+How can you use the command git log and git diff to view
+the history of files?
+
+Using git log you can find commits and can compare two 
+commits with each other with git diff and with the diff
+command you can view all the additions and deletions since
+the last commit.
+
+How might using version control make you more confident to
+make changes that could break something?
+
+Since I can always go back to a previous commit it makes me
+more confident that if I do something wrong then I can always
+undo them. With this type of control of code history it makes
+it easier to just try things out first and be more adventurous
+without worrying about the implications that it might break the
+code since you can always go back to a working code with a 
+different commit.
+
+Now that yo have your workspace set up, what do yo want ot try
+using Git for?
+
+I will be using Git to play around and do some code and just
+overall try to get the hang of comparing it and such
