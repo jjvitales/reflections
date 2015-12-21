@@ -1,0 +1,8 @@
+git clone (url)
+git log
+git diff [-u] (--- commit ID) (++++ commit ID)
+git status
+git init
+git checkout (commit ID)
+git add
+git commit [[-m] "commit message"] 
